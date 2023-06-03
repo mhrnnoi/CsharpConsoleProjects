@@ -1,0 +1,2 @@
+# CsharpConsoleProjects
+some cli 
